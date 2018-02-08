@@ -4,13 +4,14 @@
  font-style: normal;
  text-transform: uppercase;
  letter-spacing: .08em;
- color: white;
- text-align: left;
+ color: #333;
+ text-align: center;
+ margin-bottom: 1em;
 }
 
 body {
- color: white;
- background-color: black;
+ color: #333;
+ background-color: white;
  font-family: PT Serif;
  font-weight: 400;
  font-style: normal;
@@ -18,4 +19,61 @@ body {
  line-height:1.4em;
  letter-spacing: .01em;
  text-align: left;
+ padding-top: 15vh;
+ padding-bottom: 15vh;
+ padding-right: 25vw;
+ padding-left: 25vw;
+ align-self: flex-start;
+}
+
+h3 {
+	margin-top: 2em;
+	font-family: PT Sans;
+}
+
+hr {
+ margin-top: 0em;
+ margin-bottom: 0em;
+}
+
+a,a:visited {
+ color:#35B997;
+ text-decoration:none
+}
+
+.institution {
+font-weight: bold;
+}
+
+.date {
+text-align: left;
+float: right;
+}
+
+.position {
+font-style: italic;
+}
+
+ul {
+ position: relative;
+ display: block;
+ margin: 0;
+ padding: 0rem;
+ list-style-type: none;
+ margin-top: 1em;
+ margin-bottom: 2em;
+}
+
+.redirect {
+	margin-top: 3em;
+	text-align: center;
+}
+
+.home-image {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 9999;
 }
