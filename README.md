@@ -1,6 +1,6 @@
-![Charlie Banner]<img src="Charlie.jpg" alt="Ball python, natural morph">
+<img src="charlie-small.jpg" alt="Ball python, natural morph">
 
-<h2>Here's the code for my personal homepage!</h2>
+<h1>Here's the code for my personal homepage!</h1>
 
 ## What Worked
 
@@ -12,7 +12,7 @@ My homepage is rather clunky. Moving forward, I think I would like to divide the
 
 ## Collaboration
 
-I would like to thank <a href="https://davidbarsky.com/">David Barsky</a>, who always makes himself avaliable to bounce ideas off of and who can always point me in the right direction. His enthusiasm for programming is what got me here and has me sticking around.
+I would like to thank <a href="http://www.davidbarsky.com/">David Barsky</a>, who always makes himself avaliable to bounce ideas off of and who can always point me in the right direction. His enthusiasm for programming is what got me here and has me sticking around.
 
 ## Time Spent
 
