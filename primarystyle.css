@@ -5,4 +5,17 @@
  text-transform: uppercase;
  letter-spacing: .08em;
  color: white;
+ text-align: left;
+}
+
+body {
+ color: white;
+ background-color: black;
+ font-family: PT Serif;
+ font-weight: 400;
+ font-style: normal;
+ font-size: 16px;
+ line-height:1.4em;
+ letter-spacing: .01em;
+ text-align: left;
 }
