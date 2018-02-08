@@ -4,11 +4,11 @@
 
 ## What Worked
 
-I managed to come away from this with a resume and bio page that I am pretty proud of. I learned that implementing the HTML was fairly straight-forward, but finding the right styling takes time.
+I managed to come away from this with a resume and bio page that I am pretty proud of. I learned that implementing the HTML is fairly straight-forward, but finding the right styling takes time.
 
 ## What Flopped
 
-My homepage is rather clunky. Moving forward, I think I would like to divide the webpage into two vertical columns occupied by the photo and text, respectively. I would also like to add some more interactive elements such as a side bar, buttons, and/or icons that can help users navigate my page in a more design-friendly manner. Moreover, mobile optimization certainly needs improvement.
+My homepage is rather clunky. Moving forward, I think I would like to divide the webpage into two vertical columns occupied by the photo and text, respectively. I would also like to add some more interactive elements so users can better navigate my page. Mobile optimization also certainly needs improvement.
 
 ## Collaboration
 
