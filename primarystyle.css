@@ -82,7 +82,8 @@ ul {
 
 .redirect {
   margin-top: 3em;
-  text-align: center;
+  text-align: center
+  color: #FF6347;
 }
 
 h1 {
