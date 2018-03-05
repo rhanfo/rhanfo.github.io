@@ -126,5 +126,9 @@ h1 {
     order: 0;
     padding-bottom: 3vh;
   }
-}
 
+  body {
+    margin-right: -100px;
+    margin-left: -100px;
+  }
+}
