@@ -98,6 +98,10 @@ h1 {
 .rightcolumn {
   float: right;
   width: 42.5%;
-  padding-top: 19vh;
+  padding-top: 22vh;
   padding-bottom: 10vh;
+}
+
+#currentlyworking {
+  margin-bottom: 0px;
 }
