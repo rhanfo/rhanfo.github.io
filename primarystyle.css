@@ -23,7 +23,6 @@ body {
   padding-bottom: 15vh;
   padding-right: 25vw;
   padding-left: 25vw;
-  align-self: flex-start;
 }
 
 h3 {
@@ -49,6 +48,9 @@ img {
   padding-right: 4.6vw;
   padding-left: 1vw;
   padding-bottom:  2.5vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }  
 
 a,
@@ -90,19 +92,23 @@ h1 {
   margin-top: -0.5em;
 }
 
-.leftcolumn {
-  float: left;
-  width: 51.5%;
-
+.rightcolumn {
+  margin-left: auto;
+  width: 42.5%;
+  padding-top: 12vh;
+  padding-bottom: 10vh;
+  order: 2;
 }
 
-.rightcolumn {
-  float: right;
-  width: 42.5%;
-  padding-top: 22vh;
-  padding-bottom: 10vh;
+.leftcolumn {
+  margin-right: auto;
+  width: 51.5%;
+  order: 1;
+
 }
 
 #currentlyworking {
   margin-bottom: 0px;
 }
+
+@media (max-width: 700px)
