@@ -44,6 +44,7 @@ img {
 
 .homepage {
   text-align: left;
+  font-size: 20px;
   padding-top: 2.5vh;
   padding-right: 4.6vw;
   padding-left: 1vw;
@@ -95,7 +96,7 @@ h1 {
 .rightcolumn {
   margin-left: auto;
   width: 42.5%;
-  padding-top: 12vh;
+  padding-top: 15vh;
   padding-bottom: 10vh;
   order: 2;
 }
@@ -112,7 +113,13 @@ h1 {
 }
 
 /* SMARTPHONES/TABLET STYLE */
-@media only screen and (max-width: 1024px) {
+@media only screen and (max-width: 1272px) {
+
+  body {
+    align-items: center;
+    margin: 0em;
+    padding: 0;
+  }
 
   .homepage {
     flex-direction: column;
@@ -121,14 +128,11 @@ h1 {
 
   .rightcolumn, .leftcolumn {
     display: block;
-    margin-left: 0;
-    margin-right: 0;
+    margin-left: auto;
+    margin-right: auto;
     order: 0;
     padding-bottom: 3vh;
+    width: device-width; 
   }
 
-  body {
-    margin-right: -100px;
-    margin-left: -100px;
-  }
 }
